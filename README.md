@@ -1,33 +1,58 @@
 # CODSOFT
-Codsoft Internship Projects
-Welcome to my Codsoft internship repository! This repo contains four projects I worked on as part of my internship:
+**Codsoft Internship Projects**
+=============================
 
-To-Do List
-Contact Manager
-Password Generator
-Rock-Paper-Scissors Game
-Projects Overview
-1. To-Do List
-A simple application to manage your tasks. Features include:
+This repository contains four projects completed as part of the Codsoft internship program.
 
-Add, edit, and delete tasks
-Mark tasks as completed
-Persistent storage
-2. Contact Manager
-A program to manage your contacts, with the following features:
+**Projects:**
 
-Add, edit, and delete contacts
-Validate email addresses before adding
-If the email is correct, the contact is added
-If the email is incorrect, the contact is not added
-3. Password Generator
-A utility to generate secure passwords:
+### 1. Todo List App
 
-Customize length and complexity
-Options for including symbols, numbers, and uppercase letters
-4. Rock-Paper-Scissors Game
-A fun implementation of the classic game:
+A simple Todo List app that allows users to create, read, update, and delete tasks. Built using Python.
 
-Play against the computer
-Randomized computer moves
-Score tracking
+* Features:
+	+ Create new tasks
+	+ Mark tasks as completed
+	+ Delete tasks
+	+ View all tasks
+* Technologies used: Python
+
+### 2. Contact Management System
+
+A Contact Management System that allows users to store and manage contact information. Built using Python.
+
+* Features:
+	+ Add new contacts
+	+ View all contacts
+	+ Search for contacts
+	+ Update contact information
+	+ Delete contacts
+* Technologies used: Python
+
+### 3. Rock, Paper, Scissors Game
+
+A Rock, Paper, Scissors game built using Python.
+
+* Features:
+	+ Play against the computer
+	+ Choose from rock, paper, or scissors
+	+ View game results
+* Technologies used: Python, Random
+
+### 4. Password Generator
+
+A Password Generator application that generates strong and random passwords based on user input. Built using Python.
+
+* Features:
+	+ Specify password length
+	+ Generate a random password
+	+ View generated password
+* Technologies used: Python, Random, String
+
+**Getting Started:**
+
+To run any of these projects, simply clone this repository and navigate to the project directory. Then, run the project using Python (e.g., `python todo_list_app.py`).
+
+**Author:**
+
+[SOURABH BIRADA]
