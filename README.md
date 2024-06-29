@@ -51,8 +51,8 @@ A Password Generator application that generates strong and random passwords base
 
 **Getting Started:**
 
-To run any of these projects, simply clone this repository and navigate to the project directory. Then, run the project using Python (e.g., `python todo_list_app.py`).
+To run any of these projects, simply clone this repository and navigate to the project directory. Then, run the project using Python.
 
 **Author:**
 
-[SOURABH BIRADA]
+SOURABH BIRADA
