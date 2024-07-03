@@ -1,8 +1,6 @@
-# CODSOFT
-**Codsoft Internship Projects**
+# Python Project
+**Basic Project **
 =============================
-
-This repository contains four projects completed as part of the Codsoft internship program.
 
 **Projects:**
 
