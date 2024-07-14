@@ -47,6 +47,16 @@ A Password Generator application that generates strong and random passwords base
 	+ View generated password
 * Technologies used: Python, Random, String
 
+### 5. calculater.py
+
+`calcul.py` is a Python script designed to perform basic arithmetic calculations. The script can add, subtract, multiply, and divide numbers provided by the user.
+
+#### Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
 **Getting Started:**
 
 To run any of these projects, simply clone this repository and navigate to the project directory. Then, run the project using Python.
